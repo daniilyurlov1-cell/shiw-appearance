@@ -1,0 +1,248 @@
+{
+    "blips": {
+        "clothing_store": "Магазин одежды",
+        "wardrobe": "Гардероб"
+    },
+    "texts": {
+        "body": "Тело",
+        "face": "Лицо",
+        "hair_beard": "Волосы и борода",
+        "hair_style": "Причёска",
+        "hair_color": "Цвет волос",
+        "beard_style": "Стиль бороды",
+        "beard_color": "Цвет бороды",
+        "makeup": "Макияж",
+        "appearance": "Внешность",
+        "slim": "Худой",
+        "sporty": "Спортивный",
+        "medium": "Средний",
+        "fat": "Полный",
+        "strong": "Крепкий",
+        "face_width": "Ширина лица",
+        "skin_tone": "Оттенок кожи",
+        "eyes": "Глаза",
+        "eyelids": "Веки",
+        "eyebrows": "Брови",
+        "nose": "Нос",
+        "mouth": "Рот",
+        "teeth": "Зубы",
+        "cheekbones": "Скулы",
+        "jaw": "Челюсть",
+        "ears": "Уши",
+        "chin": "Подбородок",
+        "defects": "Дефекты",
+        "hair": "Волосы",
+        "beard": "Борода",
+        "type": "Тип",
+        "visibility": "Видимость",
+        "color_palette": "Палитра цветов",
+        "color_firstrate": "Основной цвет",
+        "eyebrow": "Брови",
+        "nose_curvature": "Кривизна носа",
+        "up_down": "Вверх/Вниз",
+        "left_right": "Влево/Вправо",
+        "upper_lip_height": "Высота верхней губы",
+        "upper_lip_width": "Ширина верхней губы",
+        "upper_lip_depth": "Глубина верхней губы",
+        "lower_lip_height": "Высота нижней губы",
+        "lower_lip_width": "Ширина нижней губы",
+        "lower_lip_depth": "Глубина нижней губы",
+        "make_up": "Макияж",
+        "older": "Старше",
+        "scars": "Тип шрамов",
+        "freckles": "Тип веснушек",
+        "moles": "Родинки",
+        "disadvantages": "Недостатки",
+        "spots": "Пятна",
+        "shadow": "Тень",
+        "color_shadow": "Цвет тени",
+        "color_first_class": "Основной цвет тени",
+        "blushing_cheek": "Румянец на щеках",
+        "blush_id": "Цвет румянца",
+        "blush_c1": "Основной цвет румянца",
+        "lipstick": "Тип помады",
+        "color_lipstick": "Цвет помады",
+        "lipsticks_c1": "Основной цвет помады",
+        "lipsticks_c2": "Второстепенный цвет помады",
+        "eyeliners": "Подводка для глаз",
+        "eyeliners_id": "Цвет подводки",
+        "eyeliners_c1": "Основной цвет подводки",
+        "save": "Сохранить",
+        "options": "Опции",
+        "align": "сверху-слева",
+        "style": "Стиль",
+        "color": "Цвет",
+        "size": "Размер",
+        "width": "Ширина",
+        "height": "Высота",
+        "depth": "Глубина",
+        "waist": "Талия",
+        "chest": "Грудь",
+        "distance": "Расстояние",
+        "angle": "Угол",
+        "clarity": "Чёткость",
+        "creator": "СОЗДАНИЕ ПЕРСОНАЖА",
+        "first_menu": {
+            "label_firstname": "Имя",
+            "label_lastname": "Фамилия",
+            "desc": "Как люди должны вас называть?",
+            "none": "Пусто",
+            "start": "Начать путешествие",
+            "empty": "Сначала заполните всё",
+            "nationality": "Национальность",
+            "birthdate": "Дата рождения"
+        }
+    },
+    "labels": {
+        "boot_accessories": "Аксессуары для ботинок",
+        "pants": "Брюки",
+        "cloaks": "Плащи",
+        "hats": "Шляпы",
+        "vests": "Жилеты",
+        "chaps": "Чепраки",
+        "shirts_full": "Рубашки (полные)",
+        "badges": "Значки",
+        "masks": "Маски",
+        "spats": "Гетры",
+        "neckwear": "Шейные украшения",
+        "boots": "Ботинки",
+        "accessories": "Аксессуары",
+        "jewelry_rings_right": "Кольца (правая рука)",
+        "jewelry_rings_left": "Кольца (левая рука)",
+        "jewelry_bracelets": "Браслеты",
+        "gauntlets": "Наручи",
+        "neckties": "Галстуки",
+        "holsters_knife": "Кобура для ножа",
+        "talisman_holster": "Талисман на кобуре",
+        "loadouts": "Комплекты",
+        "suspenders": "Подтяжки",
+        "talisman_satchel": "Талисман на сумке",
+        "satchels": "Сумки",
+        "gunbelts": "Револьверные пояса",
+        "belts": "Пояса",
+        "belt_buckles": "Пряжки поясов",
+        "holsters_left": "Кобуры (левая)",
+        "holsters_right": "Кобуры (правая)",
+        "talisman_wrist": "Талисман на запястье",
+        "coats": "Пальто",
+        "coats_closed": "Пальто (закрытые)",
+        "ponchos": "Пончо",
+        "eyewear": "Очки",
+        "gloves": "Перчатки",
+        "holsters_crossdraw": "Кобуры крестом",
+        "aprons": "Фартуки",
+        "skirts": "Юбки",
+        "hair_accessories": "Аксессуары для волос",
+        "armor": "Броня",
+        "dresses": "Платья",
+        "save": "Сохранить одежду",
+        "clothes": "Одежда",
+        "options": "Опции",
+        "color": "Цвет",
+        "choose": "Выберите одежду",
+        "wear": "Надеть наряд",
+        "wear_desc": "одеться",
+        "delete": "Удалить наряд",
+        "delete_desc": "удалить наряд",
+        "shop": "Магазин одежды",
+        "total": "Цена"
+    },
+    "menu_elements": {
+        "head": {
+            "label": "Голова"
+        },
+        "torso": {
+            "label": "Торс"
+        },
+        "legs": {
+            "label": "Ноги"
+        },
+        "foot": {
+            "label": "Ступни"
+        },
+        "hands": {
+            "label": "Руки"
+        },
+        "accessories": {
+            "label": "Аксессуары"
+        }
+    },
+    "prompts": {
+        "cloakroom_text": "Открыть раздевалку",
+        "clothing_store_label": "Магазин одежды",
+        "zoom_label":"Приблизить/Отдалить",
+        "camera_up_label": "Камера Вверх/Вниз",
+        "camera_turn_label": "Повернуть Влево/Вправо"
+    },
+    "cloack_room_prompt_button": "Раздевалка",
+    "save_outfit_1": "Сохранить наряд",
+    "save_outfit_2_header": "Сохранение наряда",
+    "save_outfit_2_input_label": "Название наряда",
+    "invalid_character_name": {
+        "title": "Ошибка",
+        "description": "Ввод должен начинаться с заглавной буквы и содержать только буквы."
+    },
+    "missing_character_info": {
+        "title": "Ошибка",
+        "description": "Сначала нужно заполнить всю информацию о себе! (Имя, Фамилия, Национальность, Дата рождения)"
+    },
+    "insufficient_funds": {
+        "title": "Недостаточно средств",
+        "description": "У вас недостаточно наличных"
+    },
+    "creator": {
+        "appearance": {
+            "label": "Внешность",
+            "desc": "Выберите свою внешность"
+        },
+        "clothing": {
+            "label": "Одежда",
+            "desc": "Выберите свою одежду"
+        },
+        "firstname": {
+            "desc": "Выберите своё имя",
+            "input": {
+                "header": "Регистрация",
+                "label": "Имя",
+                "placeholder": "Хэнк"
+            }
+        },
+        "lastname": {
+            "desc": "Выберите свою фамилию",
+            "input": {
+                "header": "Регистрация",
+                "label": "Фамилия",
+                "placeholder": "Джордан"
+            }
+        },
+        "nationality": {
+            "desc": "Выберите свою национальность",
+            "input": {
+                "header": "Регистрация",
+                "label": "Национальность",
+                "placeholder": "Мексиканец"
+            }
+        },
+        "birthdate": {
+            "desc": "Выберите дату рождения",
+            "input": {
+                "header": "Регистрация",
+                "label": "Дата рождения"
+            }
+        },
+        "male": "Мужчина",
+        "female": "Женщина",
+        "confirm": "Подтвердить",
+        "select_gender_1": "Выберите пол",
+        "select_gender_2": "Выбор пола",
+        "photo_tip": "Сделайте скриншот сейчас"
+    },
+    "clothing_menu": {
+        "category_desc": "Варианты одежды для этой категории",
+        "confirm_purhcase": "Подтвердить покупку"
+    },
+    "camera_prompt_text": "Вверх/Вниз",
+    "rotate_prompt_text": "Влево/Вправо",
+    "zoom_prompt_text": "Масштаб",
+    "group_prompt_text": "RSGCore Creator"
+}
